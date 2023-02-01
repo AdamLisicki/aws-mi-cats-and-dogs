@@ -61,6 +61,10 @@ Upload the images of cats and label them.
  ![image](https://user-images.githubusercontent.com/96197101/216174637-7da760c6-dfcb-4ef3-a3ac-38b3ac7904e8.png)
 
  Select the images of cats and click Assign image-level labels
+ 
+![image](https://user-images.githubusercontent.com/96197101/216176410-757ab73b-1bf1-479a-a0fb-afa9bd851db0.png)
+
+![image](https://user-images.githubusercontent.com/96197101/216176502-e4366a83-d729-4381-9c76-ec311a46217e.png)
 
  ![image](https://user-images.githubusercontent.com/96197101/216174768-fbf64f8e-c4a6-4ca6-9da2-77e6d6e876db.png)
 
