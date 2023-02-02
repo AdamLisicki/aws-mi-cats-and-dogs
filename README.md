@@ -70,4 +70,17 @@ Upload the images of cats and label them.
 
  ![image](https://user-images.githubusercontent.com/96197101/216175164-79c1d3e1-5b59-4c2e-ba99-eabbe91e8c6f.png)
 
+Do the same with dogs.
+
+When all of images are labeled click Train model
+
+![image](https://user-images.githubusercontent.com/96197101/216248023-b5f6fd45-510f-4c46-9e01-6d92dc5614d3.png)
+
+![image](https://user-images.githubusercontent.com/96197101/216248081-1db49690-f167-4631-8dc8-acc67f2eb346.png)
+
+![image](https://user-images.githubusercontent.com/96197101/216248139-b6e1620d-80ac-40a9-bc13-0aa3659c5690.png)
+
+![image](https://user-images.githubusercontent.com/96197101/216248216-46ae4ad5-f35f-42f1-96bd-5c8c0ca90761.png)
+
+
 
